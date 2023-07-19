@@ -1,2 +1,2 @@
 # TCC_SoftOrdering_CNN_1D
-Testes de Redes Neurais
+Testes de Redes Neurais 1D
