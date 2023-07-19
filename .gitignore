@@ -1,0 +1,7 @@
+.vscode/
+.Include/
+.Lib/
+.lighting_logs/
+.Scripts/
+.share/
+pyvenv.cfg
