@@ -1,8 +1,0 @@
-.vscode/
-.Include/
-.Lib/
-.lightning_logs/
-.Scripts/
-.share/
-.gitignore
-pyvenv.cfg
