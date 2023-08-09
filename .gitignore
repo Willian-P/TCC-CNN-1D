@@ -1,7 +1,8 @@
 .vscode/
 .Include/
 .Lib/
-#.lightning_logs/
+.lightning_logs/
 .Scripts/
 .share/
+.gitignore
 pyvenv.cfg
