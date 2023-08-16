@@ -4,5 +4,6 @@
 .Scripts/
 .share/
 /Func_Otimizacao/Adam/lightning_logs/
+/Func_Otimizacao/SGD/lightning_logs/
 /lightning_logs/
 pyvenv.cfg
