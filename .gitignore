@@ -3,7 +3,10 @@
 .Lib/
 .Scripts/
 .share/
+/lightning_logs/
 /Func_Otimizacao/Adam/lightning_logs/
 /Func_Otimizacao/SGD/lightning_logs/
-/lightning_logs/
+/Func_Otimizacao/Adadelta/lightning_logs/
+/Func_Otimizacao/Adagrad/lightning_logs/
+/Func_Otimizacao/RMSProp/lightning_logs/
 pyvenv.cfg
