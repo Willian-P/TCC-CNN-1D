@@ -1,7 +1,8 @@
 .vscode/
 .Include/
 .Lib/
-.lightning_logs/
 .Scripts/
 .share/
+/Func_Otimizacao/Adam/lightning_logs/
+/lightning_logs/
 pyvenv.cfg
