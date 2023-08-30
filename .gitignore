@@ -4,6 +4,7 @@
 .Scripts/
 .share/
 /lightning_logs/
+Experimentos_Datasets/lightning_logs/
 /Func_Otimizacao/Adam/lightning_logs/
 /Func_Otimizacao/SGD/lightning_logs/
 /Func_Otimizacao/Adadelta/lightning_logs/
