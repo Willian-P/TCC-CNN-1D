@@ -10,4 +10,9 @@ Experimentos_Datasets/lightning_logs/
 /Func_Otimizacao/Adadelta/lightning_logs/
 /Func_Otimizacao/Adagrad/lightning_logs/
 /Func_Otimizacao/RMSProp/lightning_logs/
+/Func_Otimizacao_SMOTE100/RMSProp/lightning_logs/
+/Func_Otimizacao_SMOTE100/Adam/lightning_logs/
+/Func_Otimizacao_SMOTE100/SGD/lightning_logs/
+/Func_Otimizacao_SMOTE100/Adadelta/lightning_logs/
+/Func_Otimizacao_SMOTE100/Adagrad/lightning_logs/
 pyvenv.cfg
