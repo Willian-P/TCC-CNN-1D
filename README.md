@@ -1,2 +1,4 @@
 # TCC_CNN_1D
-Testes de Redes Neurais 1D
+Este repositório é dedicado ao meu trabalho de conclusão de curso, intitulado "Estudo de técnicas de Aprendizado Profundo para prognóstico de pacientes com Covid-19". Este estudo está situado na área de Aprendizado de Máquina, mais precisamente Aprendizado Profundo (AP). Durante esta pesquisa, o foco foi na aplicação de uma rede neural convolucional unidimensional (CNN-1D) para resolver um problema que envolve dados tabulares relacionados à Covid-19.
+
+O conjunto de dados utilizado corresponde à vigilância da Síndrome Respiratória Aguda Grave (SRAG) no estado do Paraná durante o ano de 2022, que foi pré-processado durante uma Iniciação Científica. Esta pesquisa visa explorar como as técnicas de AP podem ser aplicadas nesse contexto, com o objetivo final de desenvolver um modelo de prognóstico para pacientes com Covid-19.
